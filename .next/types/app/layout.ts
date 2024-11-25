@@ -1,4 +1,4 @@
-// File: C:\Users\mateu\WebstormProjects\Projeto-Integrador-Web-2024-02\app\layout.tsx
+// File: C:\Users\gabri\OneDrive\Área de Trabalho\Projeto-Integrador-Web-2024-02\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

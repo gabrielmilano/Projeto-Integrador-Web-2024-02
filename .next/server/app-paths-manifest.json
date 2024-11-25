@@ -1,3 +1,11 @@
 {
-  "/page": "app/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/feirantes/[id]/page": "app/feirantes/[id]/page.js",
+  "/pages/public/login/page": "app/pages/public/login/page.js",
+  "/pages/aut/categoria/page": "app/pages/aut/categoria/page.js",
+  "/pages/aut/feiras/page": "app/pages/aut/feiras/page.js",
+  "/pages/aut/eventos/page": "app/pages/aut/eventos/page.js",
+  "/pages/aut/homeLogado/page": "app/pages/aut/homeLogado/page.js",
+  "/pages/aut/feirantes/page": "app/pages/aut/feirantes/page.js"
 }
